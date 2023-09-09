@@ -1,0 +1,2 @@
+# WhatIWishIKnewBeforeBecomingADataScientist
+Posit 2023 Lightning Talk
